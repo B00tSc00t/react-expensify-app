@@ -1,3 +1,6 @@
 node_modules/
 zips/
 Webpack/
+public/bundle.js
+public/styles.css
+public/styles.css.map
