@@ -2,3 +2,5 @@ node_modules/
 zips/
 Webpack/
 public/dist/
+.env.test
+.env.development
